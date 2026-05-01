@@ -1,2 +1,0 @@
-"""RemoteRAG implementation-path scaffold."""
-

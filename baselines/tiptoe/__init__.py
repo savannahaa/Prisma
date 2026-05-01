@@ -1,2 +1,0 @@
-"""Tiptoe implementation-path scaffold."""
-
